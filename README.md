@@ -1,5 +1,5 @@
-Malware Analyst 🕵️‍♂️
-FullStack Website Developer 👨‍💻
+OSINT 🕵️‍♂️
+Malware Analyst 👨‍💻
 
 
 ## 🌐 Socials:
