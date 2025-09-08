@@ -1,6 +1,5 @@
-OSINT 🕵️‍♂️
-Malware Analyst 👨‍💻
-
+### OSINT 🕵️‍♂️
+### Malware Analyst 👨‍💻
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/95gtd2dDVA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johanxq4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AnonymousDev4) 
